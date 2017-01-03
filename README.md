@@ -40,7 +40,7 @@
 アイテム取得時に表示されるレシピ情報を非表示にする  
 
 
-### [ちこり](https://github.com/chicori/chicorin)
+### [ちこり](https://github.com/chicori/TOS-Addon)
 
 * marketshowlevel ex
 とらハム様の『marketshowlevel_jp_v.1.05.ipf』をベースにいくつかの改変を行っています。
