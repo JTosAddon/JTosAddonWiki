@@ -58,3 +58,8 @@
 
 * money diff
 1つ前のマップでいくらシルバーが手に入ったか表示するアドオン
+
+### [Kajiku Moreau](https://github.com/zak1ck)
+
+* Alchemy
+マグナムオーパスのウィンドウにレシピ選択ドロップリストを追加する
