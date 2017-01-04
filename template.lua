@@ -32,7 +32,7 @@ end
 --lua読み込み時のメッセージ
 CHAT_SYSTEM(string.format("%s.lua is loaded", addonName));
 
-function TEMPLATE_SAVESETTINGS()
+function TEMPLATE_SAVE_SETTINGS()
   acutil.saveJSON(g.settingsFileLoc, g.settings);
 end
 
@@ -57,7 +57,7 @@ function TEMPLATE_ON_INIT(addon, frame)
   end
 
   --設定ファイル保存処理
-  TEMPLATE_SAVESETTINGS();
+  TEMPLATE_SAVE_SETTINGS();
   --メッセージ受信登録処理
   --addon:RegisterMsg("メッセージ", "内部処理");
 
