@@ -85,3 +85,6 @@
 
 ### *Alchemy*
 * マグナムオーパスのウィンドウを幾許か使いやすくする
+
+### *GuildmatesKai*
+* [Excrulon](https://github.com/Excrulon)氏が作成のguildmatesの日本版。最新の蔵でも正しく表示出来るようにしている。
