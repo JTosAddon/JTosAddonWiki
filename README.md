@@ -98,3 +98,6 @@
 
 ### *ShopHelper*
 * 街などで開かれている露店の価格が高いか安いかをコメントしてくれます。
+
+## [美優梨](https://github.com/m1yur1/ToS_Addon)
+
