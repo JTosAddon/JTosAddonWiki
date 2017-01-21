@@ -81,7 +81,7 @@
 
 ----
 
-## [Kajiku Moreau](https://github.com/zak1ck)
+## [Kajiku Moreau](https://github.com/zak1ck/ToSAddons)
 
 ### *Alchemy*
 * マグナムオーパスのウィンドウを幾許か使いやすくする
@@ -89,12 +89,12 @@
 ### *GuildmatesKai*
 * [Excrulon](https://github.com/Excrulon)氏が作成のguildmatesの日本版。最新の蔵でも正しく表示出来るようにしている。
 
-## [くるあ](https://github.com/kurua)
+## [くるあ](https://github.com/kurua/tosAddons)
 
 ### *chatsounds*
 * チャット受信時に音を鳴らす。チャット周りに手を加えるアドオンと競合する可能性があります。
 
-## [とうきび](https://github.com/Toukibi)
+## [とうきび](https://github.com/Toukibi/ToSAddon)
 
 ### *ShopHelper*
 * 街などで開かれている露店の価格が高いか安いかをコメントしてくれます。
