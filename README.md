@@ -94,7 +94,6 @@
 * 現在流れているBGMの名前を表示する
 * また、BGMの変更の可能
 
-
 ----
 
 ## [ちこり](https://github.com/chicori/TOS-Addon)
@@ -108,14 +107,12 @@
 ### *Autosave money*
 * チーム倉庫展開時、所持金100,000シルバーを残した金額を自動で入金欄にセットします。
 
-### *Check Skillshop*
+### *Check Skillshop*  
 * スキルショップ（バフ屋）のスキルを購入時に確認メッセージを表示します。
+
 ----
 
 ## [writ](https://github.com/writ312/myTosAddons)
-### *friend info*
-* フレンドリストから装備情報の取得が出来るようになる
-
 ### *poisonpot auto charge*
 * ポイズンポットを自動で補充するようになる
 
@@ -164,7 +161,7 @@ ___
 ### *assortment_jp*
 * assortment の日本語環境ソート対応版。
 
-### *Durability Detail *
+### *Durability Detail*
 * 装備品の耐久度が減少し、画面上部にアイコン表示を行った際、耐久度の値を併記する
 * 耐久度が0より大きく1未満の場合、値の左に*を表示する
 
