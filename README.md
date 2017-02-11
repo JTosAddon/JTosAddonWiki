@@ -75,6 +75,9 @@
 ### *tos_speedrun*
 * マップ移動もしくはコマンド使用時に、区間にかかった時間、シルバーの増減、獲得経験値を表示する
 
+### *Party Link*
+* パーティリンクの生のIDを取得し、IDでパーティに参加できるようにする
+
 ----
 
 ## [mythzeal](https://github.com/mythzeal/tos_addon)
